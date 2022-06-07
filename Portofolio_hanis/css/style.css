@@ -627,9 +627,10 @@ border-radius:50%;
 	margin-top:-40px;
 }
 
-.about-section .experience{
+.about-section .education,.about-section .experience{
 	padding-bottom: 80px;
 }
+
 
 .about-section .timeline{
 	/* background-color: red; */
